@@ -1,0 +1,10 @@
+notebooks/data/processed_dataset.csv
+notebooks/data/copy_student_dropout.csv
+
+# notebooks/data/*.csv
+
+__pycache__/
+*.pyc
+
+
+.ipynb_checkpoints/
